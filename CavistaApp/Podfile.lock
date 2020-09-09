@@ -1,0 +1,30 @@
+PODS:
+  - ACProgressHUD-Swift (1.4)
+  - Alamofire (5.2.1)
+  - SDWebImage (5.8.3):
+    - SDWebImage/Core (= 5.8.3)
+  - SDWebImage/Core (5.8.3)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - ACProgressHUD-Swift
+  - Alamofire
+  - SDWebImage
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - ACProgressHUD-Swift
+    - Alamofire
+    - SDWebImage
+    - SnapKit
+
+SPEC CHECKSUMS:
+  ACProgressHUD-Swift: 52a40fe3377959cfe84316dc0cf523c5d790bbe8
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  SDWebImage: 112503ec94a5a2a41869503844a15e8d8f1ead5c
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: 69d12c0a4d10fb657bf86761378d9f28e0efa995
+
+COCOAPODS: 1.9.3
